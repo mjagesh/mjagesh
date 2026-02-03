@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋, I'm Jagesh Madhaiyan
 
-<!--
-**mjagesh/mjagesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Web Developer | Technology Specialist | 12+ Years Experience
 
-Here are some ideas to get you started:
+I am an experienced web developer primarily focused on PHP-based technologies, CMS platforms, and modern web development practices. Over the years I have worked on multiple client projects, post-deployment support, optimizations, and integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Professional Expertise
+
+- WordPress Theme & Plugin Development  
+- Laravel Application Development  
+- PHP, MySQL, JavaScript, jQuery  
+- API Integrations (REST APIs)  
+- Website Performance Optimization  
+- Server Deployment & Maintenance  
+- Debugging and Post-Deployment Support  
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** PHP, JavaScript  
+- **Frameworks:** Laravel  
+- **CMS:** WordPress  
+- **Frontend:** HTML, CSS, jQuery  
+- **Database:** MySQL  
+- **Tools:** Git, VS Code, Linux  
+
+---
+
+## 🔭 What I’m Currently Learning
+
+- React JS  
+- Node.js & Express  
+- Cloud & DevOps Fundamentals  
+
+---
+
+## 📌 About My GitHub
+
+Most of my professional work has been done in private company repositories.  
+This GitHub account is being used to showcase personal learning projects and sample code.
+
+I am actively building demo projects here to demonstrate my skills and coding standards.
+
+---
+
+## 📫 Contact Me
+
+- **Email:** jagesh02mk@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/jageshmadhaiyan/
+
+---
+
+Thanks for visiting my profile 😊
