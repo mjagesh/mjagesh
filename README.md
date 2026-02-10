@@ -50,6 +50,7 @@ I am actively building demo projects here to demonstrate my skills and coding st
 
 - **Email:** jagesh02mk@gmail.com 
 - **LinkedIn:** https://www.linkedin.com/in/jageshmadhaiyan/
+- **Portfolio:** https://jageshm.infinityfreeapp.com/
 
 ---
 
