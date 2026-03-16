@@ -29,7 +29,7 @@ I am an experienced web developer primarily focused on PHP-based technologies, C
 
 ---
 
-## 🔭 What I’m Currently Learning
+## 🔭 Additional Modern Frontend Technologies
 
 - React JS  
 - Node.js & Express  
