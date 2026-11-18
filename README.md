@@ -163,7 +163,7 @@ I'm actively building and deploying projects to demonstrate my practical experie
 
 💼 **LinkedIn:** https://www.linkedin.com/in/jageshmadhaiyan/
 
-🌐 **Portfolio:** <a href="https://jageshm.infinityfreeapp.com/" target="_blank">https://jageshm.infinityfreeapp.com/</a>
+🌐 **Portfolio:** [Visit My Portfolio](https://jageshm.infinityfreeapp.com/)
 
 ---
 
